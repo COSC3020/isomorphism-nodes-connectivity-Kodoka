@@ -25,7 +25,7 @@ those in graph B, and make the corresponding lable adjustments to edges to
 demonstrate these two graphs are isomorphic.  
 
 Let $G_1 = (V_1, E_1)$ and $G_2 = (V_2, E_2)$ be two different graphs where the
-number of nodes in the graphs, $n$, = |V_1| = |V_2|$. $G_1$ and $G_2$ are both
+number of nodes in the graphs, $n$, $= |V_1| = |V_2|$. $G_1$ and $G_2$ are both
 complete graphs, meaning every unique pair of nodes in each graph has a
 connecting edge.  
 
