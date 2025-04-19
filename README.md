@@ -38,3 +38,14 @@ $(f(u), f(v))$ in $E_2$, as $G_2$ is also complete.
 
 Thus, for all $u, v \in V_1$ where $u \neq v: (u, v) \in E_1 \Longleftrightarrow
 (f(u), f(v)) \in E_2$
+
+## Sources
+
+I took Discrete Mathematics as a distance learning class through UND, and
+distinctly remember having to answer almost this exact same question; however,
+access to old submissions is lost 30 days after completing the course, so I don't
+acutally have access to my submission.
+
+## Plagiarism Notice
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
