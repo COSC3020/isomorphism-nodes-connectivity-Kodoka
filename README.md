@@ -28,11 +28,13 @@ Let $G_1 = (V_1, E_1)$ and $G_2 = (V_2, E_2)$ be two different graphs where the
 number of nodes in the graphs, $n$, = |V_1| = |V_2|$. $G_1$ and $G_2$ are both
 complete graphs, meaning every unique pair of nodes in each graph has a
 connecting edge.  
+
 As $n = |V_1| = |V_2|$ we have a bijection by assigning a
 unique node in $V_1$ to each node in $V_2$, $f(V_1) \implies $V_2$.  
 Since both graphs are complete, for every unique pair of nodes $(u, v) \in V_1$,
 there exists an edge $(u, v) \in E_1$. As $f$ is bijective, a comparable pair of
 unique nodes, $(f(u), f(v))$ in $V_2$ must also exist, as well as a corresponding
 $(f(u), f(v))$ in $E_2$, as $G_2$ is also complete.  
+
 Thus, for all $u, v \in V_1$ where $u \neq v: (u, v) \in E_1 \Longleftrightarrow
 (f(u), f(v)) \in E_2$
